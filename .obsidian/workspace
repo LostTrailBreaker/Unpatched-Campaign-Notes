@@ -1,0 +1,98 @@
+{
+  "main": {
+    "id": "db99b5ce27c68639",
+    "type": "split",
+    "children": [
+      {
+        "id": "71510744cbc28bfe",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6d64b21be7318153",
+    "type": "split",
+    "children": [
+      {
+        "id": "7388bd10eebfc139",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a5dbe75816e02459",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "8dc6f585b528e72a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "55ea263ac5d62498",
+    "type": "split",
+    "children": [
+      {
+        "id": "9688099cd5dd27aa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "81f0a0d788f2c481",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "71510744cbc28bfe",
+  "lastOpenFiles": [
+    "STRESS AND PANIC.md",
+    "Rules (by ClockworkAlchemist).md",
+    "Items/Cat Rifle.md",
+    "Session Summaries/Session 1.md",
+    "Session Summaries/Session 2.md",
+    "Creatures & Enemies/Voams.md",
+    "CERTAINTY.md",
+    "Player Characters/ABNER.md",
+    "Player Characters/WING.md",
+    "Player Characters/KARENATOR.md"
+  ]
+}
